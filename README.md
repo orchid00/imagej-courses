@@ -1,6 +1,6 @@
 # imagej-courses
 
-This repository contains practical excercises to learn image analysis using ImageJ/Fiji with a strong focus on biological fluorescence microscopy data.
+This repository contains practical exercises to learn image analysis using ImageJ/Fiji with a strong focus on biological fluorescence microscopy data.
 
 ## How to
 
